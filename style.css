@@ -312,3 +312,18 @@ nav ul li{
 .songname{
     font-family:"Varela Round", sans-serif;
 }
+.songList{
+    width: 40%;
+}
+.songItem img{
+    position: relative;
+    left: -10rem;
+    border-radius: 2px;
+}
+.iclass{
+    position: relative;
+    right:-12rem;
+}
+.songItem{
+    background-color: rgb(rgb(15, 14, 14), rgb(12, 12, 12), rgb(38, 38, 39));
+}
